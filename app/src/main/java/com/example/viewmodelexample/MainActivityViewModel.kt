@@ -2,7 +2,7 @@ package com.example.viewmodelexample
 
 import androidx.lifecycle.ViewModel
 
-class MainAcitivityViewModel : ViewModel() {
+class MainActivityViewModel : ViewModel() {
 
     private var count = 0
 
